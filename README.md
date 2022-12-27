@@ -27,7 +27,7 @@ It's built using SpringBoot for the backend and React.js for the frontend
 ![image](https://user-images.githubusercontent.com/95504452/209610775-43158992-91f5-47bc-9e66-6f1208a3a2e7.png)
 These are the components and files of the application.
 
-For the backend, here it is: 
+For the backend, here it is: https://github.com/dazhuox/EasyTasking---Backend
 
 Librairies used :
 1. React Router (react-router-dom): https://reactrouter.com/en/main
@@ -36,7 +36,7 @@ Librairies used :
 ### Running the Project
 To run the project, 
 First download node_modules and add it to this react app.
-Then, download the files for the backend. Link here:
+Then, download the files for the backend. Link here: https://github.com/dazhuox/EasyTasking---Backend
 The port is 8080.
 Note: The IDE used is IntelliJ.
 
